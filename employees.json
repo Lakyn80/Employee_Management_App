@@ -1,0 +1,20 @@
+[
+    {
+        "first_name": "Harald",
+        "last_name": "Varald",
+        "age": 55,
+        "city": "London"
+    },
+    {
+        "first_name": "Lukas",
+        "last_name": "Krumpach",
+        "age": 56,
+        "city": "Chýně"
+    },
+    {
+        "first_name": "Hana",
+        "last_name": "VAVROVA",
+        "age": 24,
+        "city": "Chyne"
+    }
+]
